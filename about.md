@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Software engineer with over 5 years of experience with Android. I am a moderator of the Android Dev BR community, the largest network of Android developers in Brazil. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marcello.galhardo@gmail.com](mailto:marcello.galhardo@gmail.com)
