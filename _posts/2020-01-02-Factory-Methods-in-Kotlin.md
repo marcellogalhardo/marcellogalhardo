@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Factory methods in Kotlin
+title: Factory Methods in Kotlin
 ---
 
 When talking about Factory Methods extension functions tends to be favored in Kotlin - but it might be a challenge to name these functions in a discoverable way without polluting your classpath. Therefore, we can get inspiration on Kotlin's Standard library to improve our naming.
