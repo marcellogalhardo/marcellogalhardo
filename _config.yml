@@ -87,7 +87,7 @@ exclude:
 
 # Theme settings
 #remote_theme: thelehhman/plainwhite-jekyll
-remote_theme: niklasbuschmann/contrast@v2.8
+#remote_theme: niklasbuschmann/contrast@v2.8
 
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
