@@ -86,4 +86,8 @@ exclude:
   - CNAME
 
 # Theme settings
-remote_theme: thelehhman/plainwhite-jekyll
+#remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: niklasbuschmann/contrast@v2.8
+
+plugins:
+  - jekyll-remote-theme
